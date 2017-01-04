@@ -1,0 +1,28 @@
+{
+	"name": "andrewlarsson/php-helpers",
+	"type": "library",
+	"description" : "Helpers for PHP",
+	"license": "MIT",
+	"homepage": "https://github.com/andrewLarsson/php-helpers",
+	"authors": [
+		{
+			"name": "Andrew Larsson",
+			"email": "andrew@developersbliss.com",
+			"homepage" : "https://andrewlarsson.com"
+		},
+		{
+			"name": "Tyler Andersen",
+			"email": "tyler@redserenity.com",
+			"homepage" : "https://github.com/RedSerenityDev"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"AndrewLarsson\\Helpers\\": "src"
+		}
+	},
+	"repositories": [
+	],
+	"require": {
+	}
+}
